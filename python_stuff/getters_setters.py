@@ -1,3 +1,6 @@
+#code with harry video on getters and setter
+
+
 class employee:
     def __init__(self,fname,lname):
         self.fname=fname
