@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Oct 27 17:38:31 2022
-https://www.datacamp.com/tutorial/decision-tree-classification-python
+https://colab.research.google.com/drive/1F_6NGF1Vpvhuav3x8ywaQTl9utE1E2QS?usp=sharing#scrollTo=oRZT0lOjDFYv
 @author: sanaayak
 """
 import numpy as np
