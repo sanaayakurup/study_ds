@@ -26,6 +26,7 @@ class employee:
     def __init__(self,fname,lname):
         self.fname=fname
         self.lname=lname
+
         #self.email=f'{self.fname}{self.lname}@gmail.com'
         
     def explain(self):
